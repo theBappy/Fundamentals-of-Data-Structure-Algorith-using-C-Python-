@@ -1,0 +1,1 @@
+ntNode->next
